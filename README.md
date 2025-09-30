@@ -33,9 +33,16 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=JoaquinGarciaTore&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JoaquinGarciaTore)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=JoaquinGarciaTore&theme=material-palenight)](https://github.com/JoaquinGarciaTore)
-</div>
+<a href="https://github.com/JoaquinGarciaTore">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JoaquinGarciaTore&show_icons=true&theme=tokyonight&locale=en" 
+    width="378" 
+    alt="GitHub Stats"
+  />
+</a>
+<a href="https://github.com/JoaquinGarciaTore">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaquinGarciaTore&theme=tokyonight" alt="GitHub Streak Stats"/>
+</a>
 
 <p align="center">
 <!--
