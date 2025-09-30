@@ -35,7 +35,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=JoaquinGarciaTore&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JoaquinGarciaTore)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JoaquinGarciaTore&theme=material-palenight)](https://github.com/JoaquinGarciaTore)
-</div)
+</div>
 
 <p align="center">
 <!--
